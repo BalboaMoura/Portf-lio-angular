@@ -1,0 +1,9 @@
+.image-box {/*imagem de fundo*/
+    background-image: url(./../assets/background.jpg);
+    background-size : cover;
+    position        : absolute;
+    top             : 0;/*top,botton,right e left em 0. Para aparecer o backgroud*/
+    bottom          : 0;
+    right           : 0;
+    left            : 0;
+}
